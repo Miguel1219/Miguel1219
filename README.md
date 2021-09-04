@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Miguel1219, electrical student of the national university 
 - 👀 I’m interested in Java,C++,Pyhon,Matlab,Cloud,Backend,SQL,CSS 
 - 🌱 I’m currently learning Java and Javascript
-- 💞️ I’m looking to collaborate on Angular and cibersecurity
+- 💞️ I’m looking to collaborate on  backend and cybersecurity
 - 📫 How to reach me 
 anramirezre@unal.edu.co
 miguel10271219@gmail.com
